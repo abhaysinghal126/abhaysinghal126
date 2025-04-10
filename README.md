@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaysinghal126&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="120" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinghal126&locale=en&layout=compact&card_width=300&langs_count=4&theme=dracula&hide_border=false" height="120" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaysinghal126&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinghal126&locale=en&layout=compact&card_width=300&langs_count=4&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ### 🛠️ Tech Stack
