@@ -1,12 +1,12 @@
 <h2 align="left">Hi 👋! I'm Abhay Singhal</h2>
 
-<p align="left">I'm a <font color="#007bff">Data Scientist</font> with <font color="#28a745">full-stack development skills</font> (React/Next.js, Python, C#) from Nepal 🇳🇵 | Specializing in developing impactful <font color="#dc3545">AI and machine learning solutions</font> that drive business outcomes.</p>
+<p align="left">I'm a Data Scientist with full-stack development skills (React/Next.js, Python, C#) from Nepal 🇳🇵 | Specializing in developing impactful AI and machine learning solutions that drive business outcomes.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaysinghal126&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinghal126&locale=en&layout=compact&card_width=350&langs_count=4&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaysinghal126&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="120" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinghal126&locale=en&layout=compact&card_width=300&langs_count=4&theme=dracula&hide_border=false" height="120" alt="Top Languages" />
 </div>
 
 ### 🛠️ Tech Stack
@@ -63,15 +63,15 @@
 
 ### 💼 Summary
 
-Data Scientist with full-stack capabilities, delivering <font color="#ffc107">impactful AI and machine learning solutions</font> that drive business growth. Proven ability to leverage data for <font color="#17a2b8">actionable insights</font> and build user-friendly applications.
+Data Scientist with full-stack capabilities, delivering impactful AI and machine learning solutions that drive business growth. Proven ability to leverage data for actionable insights and build user-friendly applications.
 
 ---
 
 ### 🚀 Featured Projects
 
-**<font color="#007bff">Language Learning Model</font> (Under Development)**
+**Language Learning Model (Under Development)**
 
-Developing an AI-powered tutor with <font color="#28a745">React/Next.js</font> frontend and <font color="#dc3545">TensorFlow/NLP</font> backend.
+Developing an AI-powered tutor with React/Next.js frontend and TensorFlow/NLP backend.
 
 ---
 
@@ -79,12 +79,12 @@ Developing an AI-powered tutor with <font color="#28a745">React/Next.js</font> f
 
 <div align="left">
   <a href="https://github.com/abhaysinghal126" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
   </a>
   <a href="mailto:abhaysinghal696@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
   <a href="https://abhaysinghal.com.np" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Portfolio" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
   </a>
 </div>
