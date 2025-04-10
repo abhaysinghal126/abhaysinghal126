@@ -16,62 +16,25 @@ More about me: [abhaysinghal.com.np](https://abhaysinghal.com.np)
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,cs,cpp,js,ts,nodejs,react,nextjs,html,css,tailwind,unity,tensorflow,pytorch,keras,sklearn,figma,firebase,sql,mongodb,mysql,postgresql,git,github,gcp,jupyter,tableau,pandas,numpy,matplotlib,seaborn,vscode" height="30" />
+  <img src="https://skillicons.dev/icons?i=py,ts,cs,js,html,css,c,cpp,nodejs,react,nextjs,tailwind,git,github,vscode,firebase,gcp,mongodb,mysql,postgresql,figma,jupyter,tableau,pandas,numpy,matplotlib,seaborn,tensorflow,pytorch,keras,scikitlearn,unity" height="30" />
+  <br />
+  <b>Other Tools & Technologies:</b> REST APIs, Appwrite, Excel (Advanced Automation), Power BI, CRM Tools, Agile Methodology, Data Cleaning, Feature Engineering, NLP, Time-Series Forecasting, Predictive Analytics, Model Deployment
 </div>
 
 ###
 
 ### 💼 Summary
-As a proactive and highly effective AI Developer and Data Analyst, I have a consistent history of leveraging machine learning and predictive analytics to drive key business outcomes. Recognized for delivering impactful AI solutions and providing valuable insights that inform strategic decision-making.
+A driven and detail-oriented AI Developer & Data Analyst with a proven track record of transforming data into meaningful business impact. I specialize in crafting ML models, scalable AI pipelines, and web apps that make insights accessible and actionable. I combine analytical thinking with clean UI/UX to create full-stack solutions that deliver results.
 
 ---
 
 ### 🛠️ Skills
-
-#### 💻 Programming Languages
-- Python (⭐⭐⭐⭐☆)
-- C# (⭐⭐⭐☆☆)
-- SQL (⭐⭐⭐☆☆)
-- JavaScript (⭐⭐⭐☆☆)
-- TypeScript (⭐⭐☆☆☆)
-- Go, Rust, Swift (⭐☆☆☆☆)
-
-#### 🧠 AI & Data Science
-- TensorFlow, PyTorch, Scikit-learn, Keras, Deep Learning
-- NLP, Time-Series Forecasting, Predictive Analytics
-- Data Cleaning, Feature Engineering, Model Deployment
-- Pandas, NumPy, Matplotlib, Seaborn
-
-#### 🌐 Web Development
-- HTML, CSS, JavaScript, TypeScript
-- React, Next.js, Node.js, Tailwind CSS
-- REST APIs, Appwrite
-
-#### ☁️ Cloud & Databases
-- Firebase, Google Cloud Platform
-- MongoDB, MySQL, PostgreSQL
-- SQL (Advanced), Excel Automation
-
-#### 📊 Data & Business Tools
-- Tableau, Power BI, Excel (Advanced)
-- CRM Tools, Sales Forecasting
-
-#### 🧰 Tools & Workflow
-- Git, GitHub, Jupyter Notebooks, Figma, Unity
-- Agile Methodology
-
----
-
-### 🌐 Languages
-
-| Language | Proficiency (1–5) |
-|----------|-------------------|
-| Nepali   | ⭐⭐⭐⭐⭐ |
-| Hindi    | ⭐⭐⭐⭐⭐ |
-| English  | ⭐⭐⭐⭐⭐ |
-| Russian  | ⭐⭐☆☆☆ |
-| German   | ⭐☆☆☆☆ |
-| Finnish  | ⭐☆☆☆☆ |
+- **Programming:** Python (4⭐), C# (3⭐), SQL (3⭐), JavaScript (3⭐), TypeScript (2⭐), Go, Rust, Swift  
+- **AI & Data Science:** TensorFlow, PyTorch, Keras, Scikit-learn, NLP, Deep Learning, Time-Series Forecasting  
+- **Web Development:** React, Next.js, Node.js, REST APIs, Tailwind CSS, Appwrite  
+- **Cloud & Databases:** Firebase, MongoDB, MySQL, PostgreSQL, Google Cloud Platform  
+- **Tools & Visualization:** Jupyter, Tableau, Power BI, Excel Automation, Git, GitHub, Figma  
+- **Other Expertise:** Agile, CRM Tools, Sales Forecasting, Feature Engineering, Data Cleaning, Model Deployment
 
 ---
 
@@ -79,16 +42,44 @@ As a proactive and highly effective AI Developer and Data Analyst, I have a cons
 
 **Data Scientist | Amit Suppliers**  
 *Jan 2024 – Mar 2025*  
-- Achieved a 12.7% increase in conversion rates with improved customer segmentation  
-- Built automated pipelines saving 10+ hrs/week  
-- Implemented ML models reducing stockouts by 12%  
+- Increased conversion rates by 12.7% through optimized customer segmentation  
+- Built automated data pipelines, saving over 10 hours per week  
+- Developed ML models to reduce stockouts by 12%
 
 **Data Scientist | Om Bhagawati Traders**  
 *Sept 2021 – Nov 2023*  
-- Boosted quarterly revenue by 15% using AI-based forecasting  
-- Delivered dashboards and insights to senior leadership  
+- Improved revenue by 15% using predictive analytics and demand forecasting  
+- Delivered real-time dashboards and insights for decision-makers
 
 **Front-End Developer | Om Bhagawati Traders**  
 *Jan 2020 – Sept 2021*  
-- Developed UI components using React/Next.js  
-- Reduced site load times by 40%
+- Built and optimized React + Next.js interfaces  
+- Achieved 40% faster page load times
+
+---
+
+### 🚀 Projects
+
+**Language Learning Model**  
+- Developed an AI-based Socratic tutor with TensorFlow and NLP  
+- Frontend built with React + Next.js for real-time interaction  
+- Scalable deployment via Firebase + GCP
+
+---
+
+<div align="left">
+  <a href="https://github.com/abhaysinghal126" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:abhaysinghal696@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://abhaysinghal.com.np" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="tel:+9779869606609" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Phone&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+---
