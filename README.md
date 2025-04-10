@@ -10,14 +10,13 @@ More about me: [abhaysinghal.com.np](https://abhaysinghal.com.np)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhaysinghal126&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhaysinghal126&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinghal126&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,react,nextjs,nodejs,tailwind,sql,mongodb,mysql,postgresql,figma,github,git,firebase,gcp,js,html,css,c,cpp,cs,tableau,pandas,numpy,matplotlib,seaborn,vscode,jupyter" height="30" />
+  <img src="https://skillicons.dev/icons?i=py,cs,cpp,js,ts,nodejs,react,nextjs,html,css,tailwind,unity,tensorflow,pytorch,keras,sklearn,figma,firebase,sql,mongodb,mysql,postgresql,git,github,gcp,jupyter,tableau,pandas,numpy,matplotlib,seaborn,vscode" height="30" />
 </div>
 
 ###
@@ -28,12 +27,51 @@ As a proactive and highly effective AI Developer and Data Analyst, I have a cons
 ---
 
 ### 🛠️ Skills
-- **Programming:** Python, C#, SQL, C++, JavaScript  
-- **AI & Data Science:** TensorFlow, PyTorch, Scikit-learn, Keras, NLP, Time-Series Forecasting, Data Visualization  
-- **Web Development:** React, Next.js, Node.js, REST APIs, Tailwind CSS  
-- **Cloud & DB:** Firebase, MongoDB, MySQL, PostgreSQL, Google Cloud Platform  
-- **Tools:** Git, GitHub, Jupyter, Figma, Tableau, Power BI, Excel Automation  
-- **Other:** Agile, CRM Tools, Model Deployment, Sales Forecasting
+
+#### 💻 Programming Languages
+- Python (⭐⭐⭐⭐☆)
+- C# (⭐⭐⭐☆☆)
+- SQL (⭐⭐⭐☆☆)
+- JavaScript (⭐⭐⭐☆☆)
+- TypeScript (⭐⭐☆☆☆)
+- Go, Rust, Swift (⭐☆☆☆☆)
+
+#### 🧠 AI & Data Science
+- TensorFlow, PyTorch, Scikit-learn, Keras, Deep Learning
+- NLP, Time-Series Forecasting, Predictive Analytics
+- Data Cleaning, Feature Engineering, Model Deployment
+- Pandas, NumPy, Matplotlib, Seaborn
+
+#### 🌐 Web Development
+- HTML, CSS, JavaScript, TypeScript
+- React, Next.js, Node.js, Tailwind CSS
+- REST APIs, Appwrite
+
+#### ☁️ Cloud & Databases
+- Firebase, Google Cloud Platform
+- MongoDB, MySQL, PostgreSQL
+- SQL (Advanced), Excel Automation
+
+#### 📊 Data & Business Tools
+- Tableau, Power BI, Excel (Advanced)
+- CRM Tools, Sales Forecasting
+
+#### 🧰 Tools & Workflow
+- Git, GitHub, Jupyter Notebooks, Figma, Unity
+- Agile Methodology
+
+---
+
+### 🌐 Languages
+
+| Language | Proficiency (1–5) |
+|----------|-------------------|
+| Nepali   | ⭐⭐⭐⭐⭐ |
+| Hindi    | ⭐⭐⭐⭐⭐ |
+| English  | ⭐⭐⭐⭐⭐ |
+| Russian  | ⭐⭐☆☆☆ |
+| German   | ⭐☆☆☆☆ |
+| Finnish  | ⭐☆☆☆☆ |
 
 ---
 
@@ -53,32 +91,4 @@ As a proactive and highly effective AI Developer and Data Analyst, I have a cons
 **Front-End Developer | Om Bhagawati Traders**  
 *Jan 2020 – Sept 2021*  
 - Developed UI components using React/Next.js  
-- Reduced site load times by 40%  
-
----
-
-### 🚀 Projects
-
-**Language Learning Model**  
-- Built an AI-based Socratic tutor using Python + TensorFlow  
-- Created a responsive web interface with React & Next.js  
-- Integrated Firebase + GCP for scalable deployment  
-
----
-
-<div align="left">
-  <a href="https://github.com/abhaysinghal126" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:abhaysinghal696@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://abhaysinghal.com.np" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="tel:+9779869606609" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Phone&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
+- Reduced site load times by 40%
