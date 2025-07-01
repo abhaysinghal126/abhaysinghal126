@@ -59,31 +59,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo" />
 </div>
-
-### 💼 Summary
-
-Data Scientist with full-stack capabilities, delivering impactful AI and machine learning solutions that drive business growth. Proven ability to leverage data for actionable insights and build user-friendly applications.
-
----
-
-### 🚀 Featured Projects
-
-**Language Learning Model (Under Development)**
-
-Developing an AI-powered tutor with React/Next.js frontend and TensorFlow/NLP backend.
-
----
-
-### 🔗 Connect With Me
-
-<div align="left">
-  <a href="https://github.com/abhaysinghal126" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
-  </a>
-  <a href="mailto:abhaysinghal696@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
-  </a>
-  <a href="https://abhaysinghal.com.np" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
-  </a>
-</div>
