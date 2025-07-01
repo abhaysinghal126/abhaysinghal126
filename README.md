@@ -1,7 +1,4 @@
 <h2 align="left">Hi 👋! I'm Abhay Singhal</h2>
-
-<p align="left">I'm a Data Scientist with full-stack development skills (React/Next.js, Python, C#) from Nepal 🇳🇵 | Specializing in developing impactful AI and machine learning solutions that drive business outcomes.</p>
-
 ###
 
 <div align="center">
