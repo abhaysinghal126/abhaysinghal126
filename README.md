@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! I'm Abhay Singhal</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaysinghal126&locale=en&layout=compact&card_width=300&langs_count=4&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
 ### 🛠️ Tech Stack
 
 <div align="left">
