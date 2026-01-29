@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! I'm Abhay Singhal</h2>
+<h2 align="left">Hello! I am Abhay, a software engineering student at TAMK with practical experience with building practical tools using
+Python to make my life easier. Also, I am experienced in React + TypeScript + UI/UX prototyping. I try my best to follow
+the best practices. I am very interested in making software, testing them and making them better.</h2>
 
 ### 🛠️ Tech Stack
 
