@@ -1,6 +1,6 @@
-<h2 align="left">Hello! I am Abhay, a software engineering student at TAMK with practical experience with building practical tools using
+<h3 align="left">Hello! I am Abhay, a software engineering student at TAMK with practical experience with building practical tools using
 Python to make my life easier. Also, I am experienced in React + TypeScript + UI/UX prototyping. I try my best to follow
-the best practices. I am very interested in making software, testing them and making them better.</h2>
+the best practices. I am very interested in making software, testing them and making them better.</h3>
 
 ### 🛠️ Tech Stack
 
